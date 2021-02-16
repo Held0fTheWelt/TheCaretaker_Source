@@ -1,0 +1,9 @@
+---,ScoreType,ScorePerType
+Finish,ST_FINISH,150
+Success,ST_SUCCESS,200
+Fail,ST_FAIL,0
+Garbage,ST_GARBAGE,25
+Chest,ST_CHEST,50
+Trap,ST_TRAP,100
+Meat,ST_MEAT,15
+Special,ST_SPECIAL,75

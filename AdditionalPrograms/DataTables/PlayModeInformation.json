@@ -1,0 +1,2952 @@
+[{"Name":"Classic",
+		"PlayMode": "PM_CLASSIC",
+		"Levels": [
+			{
+				"DungeonsInLevel": [
+					{
+						"Difficulties": [
+							{
+								"DungeonParts": [
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index0_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartTitleMessage\", \"Welcome - Caretaker !\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index0_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartEntryMessage\", \"Clean the dungeon, and feed the creatures. If you succeed three nights, you will be allowed to enter the next dungeon. You have 6 hours to finish.\")",
+												"NumberOfGarbage": 12,
+												"NumberOfChests": 4,
+												"NumberOfTraps": 0,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 150,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "S",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "I",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index0_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index1_PartsWithDifficulty_Index0_PartTitleMessage\", \"Everything as usual\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index0_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index1_PartsWithDifficulty_Index0_PartEntryMessage\", \"The dungeon has expanded. More work, but also more chances to die. You have 8 hours to finish.\")",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 0,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 200,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "H",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "G",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 400,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index0_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index2_PartsWithDifficulty_Index0_PartTitleMessage\", \"Always bigger and bigger\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index0_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index2_PartsWithDifficulty_Index0_PartEntryMessage\", \"Find the trash in the dungeon and burn it in the kitchen to finish your night shift. You have 10 hours to finish.\")",
+												"NumberOfGarbage": 3,
+												"NumberOfChests": 1,
+												"NumberOfTraps": 0,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 200,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "I",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "H",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 4,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 200,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 4,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 225,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"Difficulties": [
+							{
+								"DungeonParts": [
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index0_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartTitleMessage\", \"Write down your letters.\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index0_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartEntryMessage\", \"The letters you collect will help you, to unlock content in the game.\")",
+												"NumberOfGarbage": 12,
+												"NumberOfChests": 4,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 250,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "F",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "T",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index0_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index1_PartsWithDifficulty_Index0_PartTitleMessage\", \"Be patient !\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index0_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index1_PartsWithDifficulty_Index0_PartEntryMessage\", \"You have an overview on your letters later.\")",
+												"NumberOfGarbage": 7,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 300,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "T",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "L",
+														"TextColorCode":
+														{
+															"R": 1,
+															"G": 0,
+															"B": 0,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 1,
+															"G": 0.52604198455810547,
+															"B": 0.52604198455810547,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 1
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 350,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index0_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index2_PartsWithDifficulty_Index0_PartTitleMessage\", \"Riddle !\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index0_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index2_PartsWithDifficulty_Index0_PartEntryMessage\", \"If you don\\'t get it. write down your letters by only writing one color down and write them from top to bottom like seen later.\")",
+												"NumberOfGarbage": 6,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 300,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "T",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "G",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 1,
+															"B": 0,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 1,
+															"B": 0.52604198455810547,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 2
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 7,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 350,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 400,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"Difficulties": [
+							{
+								"DungeonParts": [
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index0_DungeonsInLevel_Index2_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartTitleMessage\", \"Last Round\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index0_DungeonsInLevel_Index2_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartEntryMessage\", \"You are entering the last round of Part 1\")",
+												"NumberOfGarbage": 10,
+												"NumberOfChests": 4,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 2,
+												"PathSpreadValue": [ 0.5, 0.5 ],
+												"TimeToGetHungry": 250,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "H",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "T",
+														"TextColorCode":
+														{
+															"R": 1,
+															"G": 0,
+															"B": 0,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 1,
+															"G": 0.52604198455810547,
+															"B": 0.52604198455810547,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 1
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 10,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 2,
+												"PathSpreadValue": [ 0.5, 0.5 ],
+												"TimeToGetHungry": 275,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "E",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "M",
+														"TextColorCode":
+														{
+															"R": 1,
+															"G": 0,
+															"B": 0,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 1,
+															"G": 0.52604198455810547,
+															"B": 0.52604198455810547,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 1
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 325,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 2,
+												"PathSpreadValue": [ 0.5, 0.5 ],
+												"TimeToGetHungry": 350,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "N",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "M",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 1,
+															"B": 0,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 1,
+															"B": 0.52604198455810547,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 2
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 6,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 425,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 12,
+												"NumberOfChests": 4,
+												"NumberOfTraps": 2,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 475,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"DungeonsInLevel": [
+					{
+						"Difficulties": [
+							{
+								"DungeonParts": [
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index1_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartTitleMessage\", \"Welcome - Caretaker !\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index1_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartEntryMessage\", \"Clean the dungeon, and feed the creatures. If you succeed three nights, you will be allowed to enter the next dungeon. You have 6 hours to finish.\")",
+												"NumberOfGarbage": 12,
+												"NumberOfChests": 4,
+												"NumberOfTraps": 0,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 150,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "S",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "I",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index1_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index1_PartsWithDifficulty_Index0_PartTitleMessage\", \"Everything as usual\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index1_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index1_PartsWithDifficulty_Index0_PartEntryMessage\", \"The dungeon has expanded. More work, but also more chances to die. You have 8 hours to finish.\")",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 0,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 200,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "H",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "G",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 400,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index1_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index2_PartsWithDifficulty_Index0_PartTitleMessage\", \"Always bigger and bigger\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index1_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index2_PartsWithDifficulty_Index0_PartEntryMessage\", \"Find the trash in the dungeon and burn it in the kitchen to finish your night shift. You have 10 hours to finish.\")",
+												"NumberOfGarbage": 3,
+												"NumberOfChests": 1,
+												"NumberOfTraps": 0,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 200,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "I",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "H",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 4,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 200,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 4,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 225,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"Difficulties": [
+							{
+								"DungeonParts": [
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index1_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartTitleMessage\", \"Write down your letters.\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index1_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartEntryMessage\", \"The letters you collect will help you, to unlock content in the game.\")",
+												"NumberOfGarbage": 12,
+												"NumberOfChests": 4,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 250,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "F",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "T",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index1_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index1_PartsWithDifficulty_Index0_PartTitleMessage\", \"Be patient !\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index1_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index1_PartsWithDifficulty_Index0_PartEntryMessage\", \"You have an overview on your letters later.\")",
+												"NumberOfGarbage": 7,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 300,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "T",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "L",
+														"TextColorCode":
+														{
+															"R": 1,
+															"G": 0,
+															"B": 0,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 1,
+															"G": 0.52604198455810547,
+															"B": 0.52604198455810547,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 1
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 350,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index1_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index2_PartsWithDifficulty_Index0_PartTitleMessage\", \"Riddle !\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index1_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index2_PartsWithDifficulty_Index0_PartEntryMessage\", \"If you don\\'t get it. write down your letters by only writing one color down and write them from top to bottom like seen later.\")",
+												"NumberOfGarbage": 6,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 300,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "T",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "G",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 1,
+															"B": 0,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 1,
+															"B": 0.52604198455810547,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 2
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 7,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 350,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 400,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"Difficulties": [
+							{
+								"DungeonParts": [
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index1_DungeonsInLevel_Index2_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartTitleMessage\", \"Last Round\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index1_DungeonsInLevel_Index2_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartEntryMessage\", \"You are entering the last round of Part 1\")",
+												"NumberOfGarbage": 10,
+												"NumberOfChests": 4,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 2,
+												"PathSpreadValue": [ 0.5, 0.5 ],
+												"TimeToGetHungry": 250,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "H",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "T",
+														"TextColorCode":
+														{
+															"R": 1,
+															"G": 0,
+															"B": 0,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 1,
+															"G": 0.52604198455810547,
+															"B": 0.52604198455810547,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 1
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 10,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 2,
+												"PathSpreadValue": [ 0.5, 0.5 ],
+												"TimeToGetHungry": 275,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "E",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "M",
+														"TextColorCode":
+														{
+															"R": 1,
+															"G": 0,
+															"B": 0,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 1,
+															"G": 0.52604198455810547,
+															"B": 0.52604198455810547,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 1
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 325,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 2,
+												"PathSpreadValue": [ 0.5, 0.5 ],
+												"TimeToGetHungry": 350,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "N",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "M",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 1,
+															"B": 0,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 1,
+															"B": 0.52604198455810547,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 2
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 6,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 425,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 12,
+												"NumberOfChests": 4,
+												"NumberOfTraps": 2,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 475,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"DungeonsInLevel": [
+					{
+						"Difficulties": [
+							{
+								"DungeonParts": [
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index2_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartTitleMessage\", \"Welcome - Caretaker !\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index2_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartEntryMessage\", \"Clean the dungeon, and feed the creatures. If you succeed three nights, you will be allowed to enter the next dungeon. You have 6 hours to finish.\")",
+												"NumberOfGarbage": 12,
+												"NumberOfChests": 4,
+												"NumberOfTraps": 0,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 150,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "S",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "I",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index2_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index1_PartsWithDifficulty_Index0_PartTitleMessage\", \"Everything as usual\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index2_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index1_PartsWithDifficulty_Index0_PartEntryMessage\", \"The dungeon has expanded. More work, but also more chances to die. You have 8 hours to finish.\")",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 0,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 200,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "H",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "G",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 400,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index2_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index2_PartsWithDifficulty_Index0_PartTitleMessage\", \"Always bigger and bigger\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index2_DungeonsInLevel_Index0_Difficulties_Index0_DungeonParts_Index2_PartsWithDifficulty_Index0_PartEntryMessage\", \"Find the trash in the dungeon and burn it in the kitchen to finish your night shift. You have 10 hours to finish.\")",
+												"NumberOfGarbage": 3,
+												"NumberOfChests": 1,
+												"NumberOfTraps": 0,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 200,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "I",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "H",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 4,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 200,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 4,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 225,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"Difficulties": [
+							{
+								"DungeonParts": [
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index2_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartTitleMessage\", \"Write down your letters.\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index2_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartEntryMessage\", \"The letters you collect will help you, to unlock content in the game.\")",
+												"NumberOfGarbage": 12,
+												"NumberOfChests": 4,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 250,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "F",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "T",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index2_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index1_PartsWithDifficulty_Index0_PartTitleMessage\", \"Be patient !\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index2_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index1_PartsWithDifficulty_Index0_PartEntryMessage\", \"You have an overview on your letters later.\")",
+												"NumberOfGarbage": 7,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 300,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "T",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "L",
+														"TextColorCode":
+														{
+															"R": 1,
+															"G": 0,
+															"B": 0,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 1,
+															"G": 0.52604198455810547,
+															"B": 0.52604198455810547,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 1
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 350,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index2_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index2_PartsWithDifficulty_Index0_PartTitleMessage\", \"Riddle !\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index2_DungeonsInLevel_Index1_Difficulties_Index0_DungeonParts_Index2_PartsWithDifficulty_Index0_PartEntryMessage\", \"If you don\\'t get it. write down your letters by only writing one color down and write them from top to bottom like seen later.\")",
+												"NumberOfGarbage": 6,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 300,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "T",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "G",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 1,
+															"B": 0,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 1,
+															"B": 0.52604198455810547,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 2
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 7,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 350,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 2,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 400,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"Difficulties": [
+							{
+								"DungeonParts": [
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index2_DungeonsInLevel_Index2_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartTitleMessage\", \"Last Round\")",
+												"PartEntryMessage": "NSLOCTEXT(\"BBF9BCAC4A382F2ECF1B76ABE8EDD4EE [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_Levels_Index2_DungeonsInLevel_Index2_Difficulties_Index0_DungeonParts_Index0_PartsWithDifficulty_Index0_PartEntryMessage\", \"You are entering the last round of Part 1\")",
+												"NumberOfGarbage": 10,
+												"NumberOfChests": 4,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 2,
+												"PathSpreadValue": [ 0.5, 0.5 ],
+												"TimeToGetHungry": 250,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "H",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "T",
+														"TextColorCode":
+														{
+															"R": 1,
+															"G": 0,
+															"B": 0,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 1,
+															"G": 0.52604198455810547,
+															"B": 0.52604198455810547,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 1
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 10,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 2,
+												"PathSpreadValue": [ 0.5, 0.5 ],
+												"TimeToGetHungry": 275,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "E",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "M",
+														"TextColorCode":
+														{
+															"R": 1,
+															"G": 0,
+															"B": 0,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 1,
+															"G": 0.52604198455810547,
+															"B": 0.52604198455810547,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 1
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 325,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									},
+									{
+										"PartsWithDifficulty": [
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 8,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 2,
+												"PathSpreadValue": [ 0.5, 0.5 ],
+												"TimeToGetHungry": 350,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "N",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 1,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 0.52604198455810547,
+															"B": 1,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "M",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 1,
+															"B": 0,
+															"A": 1
+														},
+														"OutlineColorCode":
+														{
+															"R": 0.52604198455810547,
+															"G": 1,
+															"B": 0.52604198455810547,
+															"A": 1
+														},
+														"ConnectedSloganIndex": 2
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 6,
+												"NumberOfChests": 3,
+												"NumberOfTraps": 1,
+												"NumberOfSpiders": 1,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 425,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											},
+											{
+												"PartTitleMessage": "",
+												"PartEntryMessage": "",
+												"NumberOfGarbage": 12,
+												"NumberOfChests": 4,
+												"NumberOfTraps": 2,
+												"NumberOfSpiders": 2,
+												"PathNumberMax": 1,
+												"PathSpreadValue": [ 1 ],
+												"TimeToGetHungry": 475,
+												"bWaitForEndOfTime": true,
+												"PlayMode": "PM_CLASSIC",
+												"SecretCredentials": [
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													},
+													{
+														"Character": "",
+														"TextColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"OutlineColorCode":
+														{
+															"R": 0,
+															"G": 0,
+															"B": 0,
+															"A": 0
+														},
+														"ConnectedSloganIndex": 0
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,3061 @@
+[{"Name":"0",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL1",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "NSLOCTEXT(\"435C60C24979BECC972F64A03F0D22D3 [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_TitleMessage\", \"Welcome - Caretaker !\")",
+		"SubtitleMessage": "NSLOCTEXT(\"435C60C24979BECC972F64A03F0D22D3 [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_SubtitleMessage\", \"Clean the dungeon, and feed the creatures. If you succeed three nights, you will be allowed to enter the next dungeon. You have 6 hours to finish.\")",
+		"NumberOfGarbage": 12,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 0,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 150,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "S",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 0.52604198455810547,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "I",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 1,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 0.52604198455810547,
+			"B": 1,
+			"A": 1
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"1",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "NSLOCTEXT(\"6B4C205144676C27C4D08BAD7FF23310 [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_TitleMessage\", \"Everything as usual\")",
+		"SubtitleMessage": "NSLOCTEXT(\"6B4C205144676C27C4D08BAD7FF23310 [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_SubtitleMessage\", \"The dungeon has expanded. More work, but also more chances to die. You have 8 hours to finish.\")",
+		"NumberOfGarbage": 8,
+		"NumberOfChests": 2,
+		"NumberOfTraps": 0,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 200,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "H",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 0.52604198455810547,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "G",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 1,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 0.52604198455810547,
+			"B": 1,
+			"A": 1
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"2",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 8,
+		"NumberOfChests": 2,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 400,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"3",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "NSLOCTEXT(\"09F8F8514EE4C9830CDF27ABDF2F3DF0 [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_TitleMessage\", \"Always bigger and bigger\")",
+		"SubtitleMessage": "NSLOCTEXT(\"09F8F8514EE4C9830CDF27ABDF2F3DF0 [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_SubtitleMessage\", \"Find the trash in the dungeon and burn it in the kitchen to finish your night shift. You have 10 hours to finish.\")",
+		"NumberOfGarbage": 3,
+		"NumberOfChests": 1,
+		"NumberOfTraps": 0,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 200,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "I",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 0.52604198455810547,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "H",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 1,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 0.52604198455810547,
+			"B": 1,
+			"A": 1
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"4",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 4,
+		"NumberOfChests": 2,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 200,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"5",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL3",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 4,
+		"NumberOfChests": 2,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 225,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"6",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL1",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "NSLOCTEXT(\"B3D9371947BF66E51A93DFBFF12F0D64 [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_TitleMessage\", \"This isn\\'t over yet\")",
+		"SubtitleMessage": "NSLOCTEXT(\"B3D9371947BF66E51A93DFBFF12F0D64 [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_SubtitleMessage\", \"There are more secrets, than you might think of !\")",
+		"NumberOfGarbage": 16,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 0,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 175,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "E",
+		"Secret0Color":
+		{
+			"R": 1,
+			"G": 0,
+			"B": 0,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 1,
+			"G": 0.52604198455810547,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret0SloganIndex": 1,
+		"Secret1Character": "M",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 1,
+			"B": 0,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 1,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret1SloganIndex": 2
+	}
+,{"Name":"7",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 10,
+		"NumberOfChests": 3,
+		"NumberOfTraps": 0,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 250,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "M",
+		"Secret0Color":
+		{
+			"R": 1,
+			"G": 0,
+			"B": 0,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 1,
+			"G": 0.52604198455810547,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret0SloganIndex": 1,
+		"Secret1Character": "E",
+		"Secret1Color":
+		{
+			"R": 1,
+			"G": 0,
+			"B": 0,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 1,
+			"G": 0.52604198455810547,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret1SloganIndex": 1
+	}
+,{"Name":"8",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 8,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 350,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 1,
+			"B": 0,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 1,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"9",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 9,
+		"NumberOfChests": 3,
+		"NumberOfTraps": 0,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 250,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "C",
+		"Secret0Color":
+		{
+			"R": 1,
+			"G": 0,
+			"B": 0,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 1,
+			"G": 0.52604198455810547,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret0SloganIndex": 1,
+		"Secret1Character": "O",
+		"Secret1Color":
+		{
+			"R": 1,
+			"G": 0,
+			"B": 0,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 1,
+			"G": 0.52604198455810547,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret1SloganIndex": 1
+	}
+,{"Name":"10",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 8,
+		"NumberOfChests": 3,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 350,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"11",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL3",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 8,
+		"NumberOfChests": 3,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 450,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"12",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL1",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 20,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 0,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 150,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"13",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 10,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 0,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 175,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"14",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 10,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 225,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"15",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 9,
+		"NumberOfChests": 3,
+		"NumberOfTraps": 0,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 175,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"16",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 10,
+		"NumberOfChests": 3,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 225,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"17",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL3",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 10,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 200,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"18",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL1",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "NSLOCTEXT(\"7546318F480440A5A4809A9BF31C8525 [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_TitleMessage\", \"Write down your letters.\")",
+		"SubtitleMessage": "NSLOCTEXT(\"7546318F480440A5A4809A9BF31C8525 [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_SubtitleMessage\", \"The letters you collect will help you, to unlock content in the game.\")",
+		"NumberOfGarbage": 12,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 250,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "F",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 0.52604198455810547,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "T",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 1,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 0.52604198455810547,
+			"B": 1,
+			"A": 1
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"19",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "NSLOCTEXT(\"7C1917BB423BF0C8B3B7AC933F56CC18 [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_TitleMessage\", \"Be patient !\")",
+		"SubtitleMessage": "NSLOCTEXT(\"7C1917BB423BF0C8B3B7AC933F56CC18 [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_SubtitleMessage\", \"You have an overview on your letters later.\")",
+		"NumberOfGarbage": 7,
+		"NumberOfChests": 3,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 300,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "T",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 0.52604198455810547,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "L",
+		"Secret1Color":
+		{
+			"R": 1,
+			"G": 0,
+			"B": 0,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 1,
+			"G": 0.52604198455810547,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret1SloganIndex": 1
+	}
+,{"Name":"20",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 8,
+		"NumberOfChests": 2,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 350,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"21",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "NSLOCTEXT(\"FF2DBD544782AB33AA5C80979CBE082D [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_TitleMessage\", \"Riddle !\")",
+		"SubtitleMessage": "NSLOCTEXT(\"FF2DBD544782AB33AA5C80979CBE082D [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_SubtitleMessage\", \"If you don\\'t get it. write down your letters by only writing one color down and write them from top to bottom like seen later.\")",
+		"NumberOfGarbage": 6,
+		"NumberOfChests": 2,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 300,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "T",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 0.52604198455810547,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "G",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 1,
+			"B": 0,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 1,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret1SloganIndex": 2
+	}
+,{"Name":"22",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 7,
+		"NumberOfChests": 3,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 350,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"23",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL3",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 8,
+		"NumberOfChests": 2,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 400,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"24",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL1",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 12,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 350,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "P",
+		"Secret0Color":
+		{
+			"R": 1,
+			"G": 0,
+			"B": 0,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 1,
+			"G": 0.52604198455810547,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret0SloganIndex": 1,
+		"Secret1Character": "E",
+		"Secret1Color":
+		{
+			"R": 1,
+			"G": 0,
+			"B": 0,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 1,
+			"G": 0.52604198455810547,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret1SloganIndex": 1
+	}
+,{"Name":"25",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 12,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 350,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "E",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 1,
+			"B": 0,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 1,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret0SloganIndex": 2,
+		"Secret1Character": "T",
+		"Secret1Color":
+		{
+			"R": 1,
+			"G": 0,
+			"B": 0,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 1,
+			"G": 0.52604198455810547,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret1SloganIndex": 1
+	}
+,{"Name":"26",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 8,
+		"NumberOfChests": 3,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 350,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"27",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 10,
+		"NumberOfChests": 2,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 350,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "I",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 1,
+			"B": 0,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 0.52604198455810547,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SloganIndex": 2,
+		"Secret1Character": "E",
+		"Secret1Color":
+		{
+			"R": 1,
+			"G": 0,
+			"B": 0,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 1,
+			"G": 0.52604198455810547,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret1SloganIndex": 1
+	}
+,{"Name":"28",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 8,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 355,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"29",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL3",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 8,
+		"NumberOfChests": 5,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 345,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"30",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL1",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 15,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 330,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 1,
+			"B": 0,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 0.52604198455810547,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 1,
+			"B": 0,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 0.52604198455810547,
+			"B": 1,
+			"A": 1
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"31",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 15,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 330,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"32",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 8,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 320,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"33",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 4,
+		"NumberOfChests": 2,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 330,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"34",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 10,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 320,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"35",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 1,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL3",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 10,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 320,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"36",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL1",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "NSLOCTEXT(\"3CDA3F78433EC63072BF958B93ED0E2A [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_TitleMessage\", \"Last Round\")",
+		"SubtitleMessage": "NSLOCTEXT(\"3CDA3F78433EC63072BF958B93ED0E2A [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_SubtitleMessage\", \"You are entering the last round of Part 1\")",
+		"NumberOfGarbage": 10,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 2,
+		"PathSpreadValues": [ 0.5, 0.5 ],
+		"TimeToGetHungry": 250,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "H",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 0.52604198455810547,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "T",
+		"Secret1Color":
+		{
+			"R": 1,
+			"G": 0,
+			"B": 0,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 1,
+			"G": 0.52604198455810547,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret1SloganIndex": 1
+	}
+,{"Name":"37",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 10,
+		"NumberOfChests": 3,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 2,
+		"PathSpreadValues": [ 0.5, 0.5 ],
+		"TimeToGetHungry": 275,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "E",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 0.52604198455810547,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "M",
+		"Secret1Color":
+		{
+			"R": 1,
+			"G": 0,
+			"B": 0,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 1,
+			"G": 0.52604198455810547,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret1SloganIndex": 1
+	}
+,{"Name":"38",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 8,
+		"NumberOfChests": 3,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 325,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"39",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 8,
+		"NumberOfChests": 3,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 2,
+		"PathSpreadValues": [ 0.5, 0.5 ],
+		"TimeToGetHungry": 350,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "N",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 0.52604198455810547,
+			"B": 1,
+			"A": 1
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "M",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 1,
+			"B": 0,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 1,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret1SloganIndex": 2
+	}
+,{"Name":"40",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 6,
+		"NumberOfChests": 3,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 425,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"41",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL3",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 12,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 2,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 475,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"42",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL1",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 14,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 2,
+		"PathSpreadValues": [ 0.5, 0.5 ],
+		"TimeToGetHungry": 320,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "V",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 1,
+			"B": 0,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 1,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret0SloganIndex": 2,
+		"Secret1Character": "E",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 1,
+			"B": 0,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 1,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret1SloganIndex": 2
+	}
+,{"Name":"43",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 12,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 0,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 2,
+		"PathSpreadValues": [ 0.5, 0.5 ],
+		"TimeToGetHungry": 320,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 1,
+			"B": 0,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 1,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "E",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 1,
+			"B": 0,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 1,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret1SloganIndex": 2
+	}
+,{"Name":"44",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 12,
+		"NumberOfChests": 5,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 350,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"45",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 8,
+		"NumberOfChests": 2,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 2,
+		"PathSpreadValues": [ 0.5, 0.5 ],
+		"TimeToGetHungry": 320,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "O",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 1,
+			"B": 0,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 1,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret0SloganIndex": 2,
+		"Secret1Character": "R",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 1,
+			"B": 0,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 0.52604198455810547,
+			"G": 1,
+			"B": 0.52604198455810547,
+			"A": 1
+		},
+		"Secret1SloganIndex": 2
+	}
+,{"Name":"46",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 12,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 0,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 350,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"47",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 1,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL3",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 12,
+		"NumberOfChests": 4,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 350,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"48",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL1",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 15,
+		"NumberOfChests": 5,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 2,
+		"PathSpreadValues": [ 0.5, 0.5 ],
+		"TimeToGetHungry": 320,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"49",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 15,
+		"NumberOfChests": 5,
+		"NumberOfTraps": 0,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 2,
+		"PathSpreadValues": [ 0.5, 0.5 ],
+		"TimeToGetHungry": 400,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 1,
+			"G": 0.018906999379396439,
+			"B": 0,
+			"A": 1
+		},
+		"Secret0SubColor":
+		{
+			"R": 1,
+			"G": 0.5,
+			"B": 0.54105901718139648,
+			"A": 1
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 1,
+			"G": 0.018906999379396439,
+			"B": 0,
+			"A": 1
+		},
+		"Secret1SubColor":
+		{
+			"R": 1,
+			"G": 0.5,
+			"B": 0.54105901718139648,
+			"A": 1
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"50",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 15,
+		"NumberOfChests": 5,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 500,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"51",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 15,
+		"NumberOfChests": 5,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 2,
+		"PathSpreadValues": [ 0.5, 0.5 ],
+		"TimeToGetHungry": 320,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"52",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 15,
+		"NumberOfChests": 5,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 400,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"53",
+		"PlayMode": "PM_CLASSIC",
+		"Level": 0,
+		"Dungeon": 2,
+		"Difficulty": 2,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL3",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 15,
+		"NumberOfChests": 5,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 2,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 500,
+		"bWaitForEndOfTime": true,
+		"PlayModeOfPart": "PM_CLASSIC",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"54",
+		"PlayMode": "PM_TEST",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL1",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "NSLOCTEXT(\"2F3FD57B454D468A158565B9BEE7D9F8 [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_TitleMessage\", \"This is a test\")",
+		"SubtitleMessage": "NSLOCTEXT(\"2F3FD57B454D468A158565B9BEE7D9F8 [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_SubtitleMessage\", \"And the subtitles work well, too\")",
+		"NumberOfGarbage": 1,
+		"NumberOfChests": 1,
+		"NumberOfTraps": 0,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 200,
+		"bWaitForEndOfTime": false,
+		"PlayModeOfPart": "PM_DEFAULT",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"55",
+		"PlayMode": "PM_TEST",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "NSLOCTEXT(\"C3BCEB614ABD2EFFEC9F1ABC64C23EBC [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_TitleMessage\", \"Still a test\")",
+		"SubtitleMessage": "NSLOCTEXT(\"C3BCEB614ABD2EFFEC9F1ABC64C23EBC [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_SubtitleMessage\", \"We test any level, we build\")",
+		"NumberOfGarbage": 1,
+		"NumberOfChests": 1,
+		"NumberOfTraps": 0,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 200,
+		"bWaitForEndOfTime": false,
+		"PlayModeOfPart": "PM_DEFAULT",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"56",
+		"PlayMode": "PM_TEST",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL2",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 1,
+		"NumberOfChests": 1,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 300,
+		"bWaitForEndOfTime": false,
+		"PlayModeOfPart": "PM_DEFAULT",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"57",
+		"PlayMode": "PM_TEST",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL1",
+		"TitleMessage": "NSLOCTEXT(\"7A4B2C0242206D7FAABFBC8DC428ADDD [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_TitleMessage\", \"Test the last part\")",
+		"SubtitleMessage": "NSLOCTEXT(\"7A4B2C0242206D7FAABFBC8DC428ADDD [A3D89F074F18F3D1E03A4AA9B995AE63]\", \"_MyTempName_SubtitleMessage\", \"but the others, too\")",
+		"NumberOfGarbage": 1,
+		"NumberOfChests": 1,
+		"NumberOfTraps": 0,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 300,
+		"bWaitForEndOfTime": false,
+		"PlayModeOfPart": "PM_DEFAULT",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"58",
+		"PlayMode": "PM_TEST",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL2",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 1,
+		"NumberOfChests": 1,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 250,
+		"bWaitForEndOfTime": false,
+		"PlayModeOfPart": "PM_DEFAULT",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+,{"Name":"59",
+		"PlayMode": "PM_TEST",
+		"Level": 0,
+		"Dungeon": 0,
+		"Difficulty": 0,
+		"PartInformation": "EPI_LEVEL3",
+		"PartOfLevel": "EPI_LEVEL3",
+		"TitleMessage": "",
+		"SubtitleMessage": "",
+		"NumberOfGarbage": 1,
+		"NumberOfChests": 1,
+		"NumberOfTraps": 1,
+		"NumberOfSpiders": 1,
+		"PathNumberMax": 1,
+		"PathSpreadValues": [ 1 ],
+		"TimeToGetHungry": 200,
+		"bWaitForEndOfTime": false,
+		"PlayModeOfPart": "PM_DEFAULT",
+		"Secret0Character": "",
+		"Secret0Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret0SloganIndex": 0,
+		"Secret1Character": "",
+		"Secret1Color":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SubColor":
+		{
+			"R": 0,
+			"G": 0,
+			"B": 0,
+			"A": 0
+		},
+		"Secret1SloganIndex": 0
+	}
+]

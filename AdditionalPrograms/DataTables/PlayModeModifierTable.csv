@@ -1,0 +1,5 @@
+---,PlayMode,GameTypeAudioApplier,TimeToGetHungryModifier,CharacterSetup,SpiderSetup,ClockModifier,FlagModifier,FXModifier
+Classic,"PM_CLASSIC","SoundCue'/Game/Audio/Effects/Buffs/BuffOff2_Cue.BuffOff2_Cue'","1.000000","(WalkSpeed=450.000000,RunModifier=1.250000,RayLength=0.000000,MaxItems=2)","(WalkSpeed=50.000000,AnimRate=0.000000,AttackRadius=0.000000)","(ClockModifier=1.000000)","()","()"
+Test,"PM_NONE","SoundWave'/Game/Audio/Effects/Buffs/BuffOff3.BuffOff3'","1.000000","(WalkSpeed=800.000000,RunModifier=1.750000,RayLength=0.000000,MaxItems=2)","(WalkSpeed=0.000000,AnimRate=0.000000,AttackRadius=0.000000)","(ClockModifier=1.000000)","()","()"
+Default,"PM_DEFAULT","SoundCue'/Game/Audio/Effects/Buffs/BuffOff3_Cue.BuffOff3_Cue'","1.000000","(WalkSpeed=600.000000,RunModifier=1.500000,RayLength=0.000000,MaxItems=2)","(WalkSpeed=400.000000,AnimRate=0.000000,AttackRadius=0.000000)","(ClockModifier=1.000000)","()","()"
+Tutorial,"PM_TUTORIAL","None","1.000000","(WalkSpeed=450.000000,RunModifier=2.000000,RayLength=0.000000,MaxItems=2)","(WalkSpeed=800.000000,AnimRate=0.000000,AttackRadius=0.000000)","(ClockModifier=1.000000)","()","()"

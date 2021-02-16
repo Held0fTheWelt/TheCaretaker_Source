@@ -1,0 +1,21 @@
+---,PlayMode,Level,Dungeon,Part,Difficulty,Name,TimeSucceeded,Score,DateOfPlayedScore,BonusPickups
+Classic_Score_2,PM_CLASSIC,-1,-1,-1,-1,I,0.000000,1850,0001.01.01-00.00.00,0
+Classic_Score_1,PM_CLASSIC,-1,-1,-1,-1,,0.000000,0,0001.01.01-00.00.00,0
+Classic_Score_6,PM_CLASSIC,-1,-1,-1,-1,are,0.000000,1000,0001.01.01-00.00.00,0
+Classic_Score_3,PM_CLASSIC,-1,-1,-1,-1,know,0.000000,1750,0001.01.01-00.00.00,0
+Classic_Score_5,PM_CLASSIC,-1,-1,-1,-1,you,0.000000,1250,0001.01.01-00.00.00,0
+Classic_Score_7,PM_CLASSIC,-1,-1,-1,-1,"thinking,",0.000000,500,0001.01.01-00.00.00,0
+Classic_Score_8,PM_CLASSIC,-1,-1,-1,-1,don't i ?,0.000000,250,0001.01.01-00.00.00,0
+Classic_Score_4,PM_CLASSIC,-1,-1,-1,-1,what,0.000000,1500,0001.01.01-00.00.00,0
+Classic_Score_9,PM_CLASSIC,-1,-1,-1,-1,Keep,0.000000,50,0001.01.01-00.00.00,0
+Classic_Score_10,PM_CLASSIC,-1,-1,-1,-1,on going !,0.000000,10,0001.01.01-00.00.00,0
+Default_Score_1,PM_DEFAULT,-1,-1,-1,-1,I,0.000000,1850,0001.01.01-00.00.00,0
+Default_Score_2,PM_DEFAULT,-1,-1,-1,-1,,0.000000,0,0001.01.01-00.00.00,0
+Default_Score_3,PM_DEFAULT,-1,-1,-1,-1,are,0.000000,1000,0001.01.01-00.00.00,0
+Default_Score_4,PM_DEFAULT,-1,-1,-1,-1,know,0.000000,1750,0001.01.01-00.00.00,0
+Default_Score_5,PM_DEFAULT,-1,-1,-1,-1,you,0.000000,1250,0001.01.01-00.00.00,0
+Default_Score_6,PM_DEFAULT,-1,-1,-1,-1,"thinking,",0.000000,500,0001.01.01-00.00.00,0
+Default_Score_7,PM_DEFAULT,-1,-1,-1,-1,don't i ?,0.000000,250,0001.01.01-00.00.00,0
+Default_Score_8,PM_DEFAULT,-1,-1,-1,-1,what,0.000000,1500,0001.01.01-00.00.00,0
+Default_Score_9,PM_DEFAULT,-1,-1,-1,-1,Keep,0.000000,50,0001.01.01-00.00.00,0
+Default_Score_10,PM_DEFAULT,-1,-1,-1,-1,on going !,0.000000,10,0001.01.01-00.00.00,0
